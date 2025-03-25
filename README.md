@@ -1,4 +1,4 @@
-# 🚦 Accident Prevention in U-Turns using Arduino & Ultrasonic Sensors
+# Accident Prevention in U-Turns using Arduino & Ultrasonic Sensors 🚦 
 
 ## 📌 Overview
 This project aims to **reduce accidents at U-turns** caused by blind spots in roads. It uses **ultrasonic sensors** to detect vehicles, controls **traffic light modules**, and triggers a **buzzer alert** when an object is too close. 
